@@ -5,7 +5,7 @@
 **Status:** 📋 Product spec stage — this repo currently holds the PRD and design thinking, not implementation.
 
 ---
-
+**Link to Prototype** : https://ignite-purpose-forge.lovable.app/
 ## The idea
 
 Architect today is a prompt-to-app builder for non-technical users: describe a product, get a working application. It's great at zero-to-one — but the moment a project needs a real engineer, it hits a wall. The generated code isn't something a developer can confidently take over and extend.
